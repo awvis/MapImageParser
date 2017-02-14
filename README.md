@@ -1,2 +1,2 @@
 # MapImageParser
-Parsing google map images with latitude and Longitude
+Parsing google map's tiles recursively with latitude and longitude as input
